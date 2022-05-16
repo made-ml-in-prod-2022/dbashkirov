@@ -1,2 +1,2 @@
 # musical-engine
-ml-in-prod-made-2022-hw1
+made-ml-in-prod-2022-hw1
